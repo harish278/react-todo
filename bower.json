@@ -1,0 +1,24 @@
+{
+  "name": "practice-react",
+  "description": "sample only for learning",
+  "main": "index.js",
+  "authors": [
+    "harish278 <harish@simpragma.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-css": "^3.3.6",
+    "jquery": "^2.1.1"
+  },
+  "resolutions": {
+    "jquery": "^2.1.1"
+  }
+}
